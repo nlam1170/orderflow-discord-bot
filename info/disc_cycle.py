@@ -6,7 +6,7 @@ from ExchangeClasses import OkexCycle, MexCycle
 
 client = discord.Client()
 channel_id = 723559287116267610
-token = "NzIzNTU4MzY1MjYzMDM2NDI4.XuzYyA.BTc4m4fXVOlM4RSOm1r5wWWjNHQ"
+token = ""
 
 mex = MexCycle()
 okex = OkexCycle()
